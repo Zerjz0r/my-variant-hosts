@@ -1,26 +1,26 @@
-0.0.0.0 zen.yastatic.net
-0.0.0.0 static.yastatic.net
-0.0.0.0 passport.yastatic.net
-0.0.0.0 brotli.yastatic.net
-0.0.0.0 sha2-yca.yastatic.net
-0.0.0.0 sha1.yastatic.net
-0.0.0.0 l7test.yastatic.net
-0.0.0.0 meth.yastatic.net
-0.0.0.0 sha2-gsn.yastatic.net
-0.0.0.0 home.yastatic.net
-0.0.0.0 api.yastatic.net
-0.0.0.0 br.yastatic.net
-0.0.0.0 gz.yastatic.net
-0.0.0.0 js.yastatic.net
-0.0.0.0 betastatic.yastatic.net
-0.0.0.0 msk-cdn-exp.yastatic.net
-0.0.0.0 i.yastatic.net
-0.0.0.0 web.yastatic.net
-0.0.0.0 www.yastatic.net
-0.0.0.0 sss.yastatic.net
-0.0.0.0 ym_wassynced.yastatic.net
-0.0.0.0 et.yastatic.net
-0.0.0.0 yastatic.net
+||zen.yastatic.net^$important
+||static.yastatic.net^$important
+||passport.yastatic.net^$important
+||brotli.yastatic.net^$important
+||sha2-yca.yastatic.net^$important
+||sha1.yastatic.net^$important
+||l7test.yastatic.net^$important
+||meth.yastatic.net^$important
+||sha2-gsn.yastatic.net^$important
+||home.yastatic.net^$important
+||api.yastatic.net^$important
+||br.yastatic.net^$important
+||gz.yastatic.net^$important
+||js.yastatic.net^$important
+||betastatic.yastatic.net^$important
+||msk-cdn-exp.yastatic.net^$important
+||i.yastatic.net^$important
+||web.yastatic.net^$important
+||www.yastatic.net^$important
+||sss.yastatic.net^$important
+||ym_wassynced.yastatic.net^$important
+||et.yastatic.net^$important
+||yastatic.net^$important
 ||360.yandex^$important
 ||ads.yandex^$important
 ||auto.yandex^$important
