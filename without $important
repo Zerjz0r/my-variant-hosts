@@ -84,3 +84,4 @@
 ||vkontakte.ru/js/api/^$third-party
 ||vkontakte.ru/share.php^$third-party
 ||vkontakte.ru/widget_*^$third-party
+||yandex.webcam^
